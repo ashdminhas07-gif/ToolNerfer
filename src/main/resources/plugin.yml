@@ -1,0 +1,6 @@
+name: ToolNerfer
+version: 1.0.0
+main: com.cosmicphonks.toolnerfer.ToolNerfer
+api-version: '1.21.11'
+description: Caps player damage from maces and spears at 6 hearts.
+author: CosmicPhonks
